@@ -1,0 +1,1 @@
+/Users/Alexander/macOsEnv/./JupyterNotebookOpen.app
