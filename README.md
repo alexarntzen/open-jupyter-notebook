@@ -1,6 +1,6 @@
 Small app that opens Jupyter Notebooks on double click. The app opens `.ipnyb` files using nbopen on macOS.  
 
-To install this app, first make sure you have [brew](https://brew.sh/index) installed. 
+To install this app, first make sure you have [brew](https://brew.sh/index) and [python3](https://www.python.org) installed. 
 Then run 
 ``` 
 brew tap alexarntzen/homebrew-alex;
