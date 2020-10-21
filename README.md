@@ -15,4 +15,4 @@ to install the app.
 When the app is installed, right click on a `.ipnyb` file, and select open with `openJupyterMacos`. You can then set this option as default.
 
 
-The open script for jupyter notebooks is copied from sahuja's answer on [here](https://stackoverflow.com/questions/16158893/open-an-ipython-notebook-via-double-click-on-osx/46995543).
+The open script for jupyter notebooks is copied from sahuja's answer on [stackoverflow](https://stackoverflow.com/questions/16158893/open-an-ipython-notebook-via-double-click-on-osx/46995543).
