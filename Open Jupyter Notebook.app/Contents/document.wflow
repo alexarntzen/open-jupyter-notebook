@@ -86,7 +86,7 @@ osascript -e "tell application \"terminal\" to do script \"${the_script}\"";</st
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>6DAAAF23-1571-473B-97F3-AAFC760396DF</string>
+				<string>E5AD7664-5154-4116-858B-992119AE61F8</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -96,9 +96,9 @@ osascript -e "tell application \"terminal\" to do script \"${the_script}\"";</st
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>C45D0E7A-5058-4B1E-B747-DCCF6EBF89A5</string>
+				<string>9E0D94CF-2A31-481E-B329-AB2FB118F59C</string>
 				<key>UUID</key>
-				<string>B8A116CD-12E2-4F97-A85A-D3B62296588F</string>
+				<string>E6B60CA2-576A-451D-B725-BA6C62C8CF77</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -176,7 +176,7 @@ osascript -e "tell application \"terminal\" to do script \"${the_script}\"";</st
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>320.000000:252.000000</string>
+				<string>529.000000:184.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
