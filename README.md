@@ -1,11 +1,11 @@
-Samm app that opens Jupyter Notebooks with double click. The app opens `.ipnyb` files using nbopen on macOs.  
+Samm app that opens Jupyter Notebooks with double click on . The app opens `.ipnyb` files using nbopen on macOs.  
 
 To install this app, first make sure you have [brew](https://brew.sh/index) installed. 
-Then run
+Then run 
 ``` 
 brew tap alexarntzen/homebrew-alex;
 ``` 
-to tap my homebrew tap. Then run 
+in the terminal to tap my homebrew tap. Then run 
 ``` 
 brew cask install open-jupyter;
 ``` 
